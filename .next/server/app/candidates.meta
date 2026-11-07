@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/candidates/layout,_N_T_/candidates/page,_N_T_/candidates"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/candidates/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/963763b8530b24094bd66aa14da9c8b2663c38cbc8373f71b648e893b15ecfd0/$/candidates",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/candidates/page"
+    },
+    "isFallback": false
+  }
+}

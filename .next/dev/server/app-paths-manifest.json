@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/assessments/page": "app/assessments/page.js",
+  "/assessments/library/page": "app/assessments/library/page.js",
+  "/ai-generator/page": "app/ai-generator/page.js",
+  "/candidates/page": "app/candidates/page.js",
+  "/candidate/dashboard/page": "app/candidate/dashboard/page.js",
+  "/candidate/take-assessment/page": "app/candidate/take-assessment/page.js"
+}

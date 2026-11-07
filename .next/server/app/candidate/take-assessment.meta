@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/candidate/layout,_N_T_/candidate/take-assessment/layout,_N_T_/candidate/take-assessment/page,_N_T_/candidate/take-assessment"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/candidate/take-assessment/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 160,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/ae0d2e5fb50e89ebab1a7c8bbd209d9768c67fc53c8d85be3fb304b79f266f64/$/candidate/take-assessment",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/candidate/take-assessment/page"
+    },
+    "isFallback": false
+  }
+}

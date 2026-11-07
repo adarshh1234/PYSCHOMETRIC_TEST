@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/invitations/layout,_N_T_/invitations/page,_N_T_/invitations"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/invitations/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/b5a120d8fde6c6bc09e7961938209b2a65a4b08591b177c8350c1ff545cf86f7/$/invitations",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/invitations/page"
+    },
+    "isFallback": false
+  }
+}
